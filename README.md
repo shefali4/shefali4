@@ -6,7 +6,7 @@
 [![email badge](https://img.shields.io/badge/Email_Me!-30302f?style=flat&logo=gmail)](shefali4@illinois.edu)
 
 - 🔭 I’m currently working on a college meal plan app with 17 other Women of Rewriting the Code members across the world
-- 🌱 I’m currently learning Bootstrap, Google APIs, MongoDB, Swift, NodeJS, Django, Figma
+- 🌱 I’m currently learning Bootstrap, Google APIs, MongoDB, Swift, Figma
 - 👯 I’m looking to collaborate on projects and hackathons
 - 🤔 I’m looking for help with building industry experience and front end skills
 - 💬 Ask me about AI4ALL and how I contribute to making AI education accessible to unrepresented students
