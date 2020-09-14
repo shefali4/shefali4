@@ -1,4 +1,4 @@
-### Hi, I'm Shefali 👋
+### Hi, I'm Shefali 👋🏽
 
 
 [![linkedin badge](https://img.shields.io/badge/Shefali's_LinkedIn-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shefalisharma101/)
