@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shefali4/shefali4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a college meal plan app with 17 other Women of Rewriting the Code members across the world
 - 🌱 I’m currently learning Bootstrap, Google APIs, MongoDB, Swift, NodeJS, Django, Figma
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy researching/trading stocks and watching The Office (for the third time) in my free time!
 - Check out my website: https://sharma-portfolio.wixsite.com/info
--->
+
