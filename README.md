@@ -10,7 +10,7 @@
 - 🏢 I’m currently working on a college meal plan app with 17 other Women of Rewriting the Code members across the world
 - 🎓 Studying towards a degree in Computer Science (BS) at the University of Illinois at Urbana-Champaign
 - ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `SQL`, `JavaScript`, `HTML/CSS`
-- 🌱 Learning about these: Bootstrap, Google APIs, MongoDB, Swift, Figma
+- 🌱 Learning about these: `Bootstrap`, `Google APIs`, `MongoDB`, `Swift`, `Figma`
 - 👯 Active member of: `Women in Computer Science`, `Association of Computing Machinery`, `Rewriting the Code`
 - 🤔 I’m looking for help with building industry experience as well as my front end skills
 - 💬 Ask me about AI4ALL and how I contribute to making AI education accessible to unrepresented students
