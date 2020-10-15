@@ -4,7 +4,7 @@
 #### I'm a Computer Science student at the University of Illinois at Urbana-Champaign and I am seeking internship opportunities for Summer 2021! Always open to collaborating on projects with other students! 😊
 
 [![linkedin badge](https://img.shields.io/badge/Shefali's_LinkedIn-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shefalisharma101/)
-[![website badge](https://img.shields.io/badge/Shefali's_Portfolio-30302f?style=flat&logo=wix)](https://sharma-portfolio.wixsite.com/info)
+
 [![email badge](https://img.shields.io/badge/Email_Me!-30302f?style=flat&logo=gmail)](mailto:shefali4@illinois.edu)
 
 - 🏢 I’m currently working on a college meal plan app with 17 other Women of Rewriting the Code members across the world
