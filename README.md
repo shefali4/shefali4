@@ -7,11 +7,9 @@
 
 - 🏢 I’m currently working on a college meal plan app with 17 other Women of Rewriting the Code members across the world
 - 🎓 Studying towards a B.S. in Computer Science at the University of Illinois at Urbana-Champaign
-- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `Python`, `HTML/CSS`
-- 🌱 Learning about these: `Bootstrap`, `Google APIs`, `MongoDB`, `Swift`, `Figma`
-- 👯 Active member of: `Rewriting the Code`, `Women in Computer Science`, `Association of Computing Machinery`
+- ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `HTML/CSS`
+- 🌱 Learning about these: `Bootstrap`, `Google APIs`, `Javascript`, `Figma`
+- 👯 Active member of: `Rewriting the Code`, `Women in Computer Science`, `AI4ALL`
 - 💬 Ask me about AI4ALL and how I contribute to making AI education accessible to unrepresented students
 - 📫 Reach me at: shefali4@illinois.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy researching/trading stocks in my free time!📈
 
