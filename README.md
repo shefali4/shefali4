@@ -7,8 +7,7 @@
 
 - 🎓 Studying towards a B.S. in Computer Science at the University of Illinois at Urbana-Champaign
 - ⚙️ Some programming languages I'm familiar with: `C++`, `Java`, `HTML/CSS`
-- 🌱 Learning about these: `Bootstrap`, `Google APIs`, `JavaScript`, `Figma`
+- 🌱 Learning about these: `Kotlin`, `JavaScript`, `Figma`
 - 👯 Active member of: `Rewriting the Code`, `Women in Computer Science`, `AI4ALL`
-- 💬 Ask me about AI4ALL and how I contribute to making AI education accessible to unrepresented students
 - 📫 Reach me at: shefali4@illinois.edu
 
